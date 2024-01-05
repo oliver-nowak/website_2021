@@ -17,10 +17,10 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="All posts"
-        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+        description="Oliver Ernst Nowak's portfolio website of personal projects"
+        title="Home"
+        keywords={["Digital Media", "Photography", "Art", "Video", "Music"]}
       />
-      {/* <Bio /> */}
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h2 className="page-head-title">

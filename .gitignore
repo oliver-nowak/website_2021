@@ -67,3 +67,18 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+*.mp4
+*.ogv
+*.webm
+
+/src/utils/css/font/*
+
+/content/blog/*/*.jpeg
+/content/blog/*/*.jpg
+/content/blog/*/*.png
+/content/blog/*/*.pdf
+
+.idea/
+
+package-lock.json

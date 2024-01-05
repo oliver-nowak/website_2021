@@ -1,35 +1,89 @@
 /* Variables
 /* ---------------------------------------------------------- */
 
-@import url('https://fonts.googleapis.com/css?family=Muli:400,400i,600,700,700i,800&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Muli:400,400i,600,700,700i,800&display=swap");
+
+@font-face {
+  font-family: "Inspecteur Clouseau W00 Regular";
+  src: url("./font/inspector/41facbb5945a39ef05129843cf015314.eot"); /* IE9*/
+  src: url("./font/inspector/41facbb5945a39ef05129843cf015314.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("./font/inspector/41facbb5945a39ef05129843cf015314.woff2")
+      format("woff2"),
+    /* chrome、firefox */
+      url("./font/inspector/41facbb5945a39ef05129843cf015314.woff")
+      format("woff"),
+    /* chrome、firefox */
+      url("./font/inspector/41facbb5945a39ef05129843cf015314.ttf")
+      format("truetype"),
+    /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+      url("./font/inspector/41facbb5945a39ef05129843cf015314.svg#Inspecteur Clouseau W00 Regular")
+      format("svg"); /* iOS 4.1- */
+}
+
+@font-face {
+  font-family: "Dukane";
+  src: url("./font/DUKANE_WEB/Dukane.woff") format("woff"),
+    url("./font/DUKANE_WEB/Dukane.svg#Dukane") format("svg");
+}
+
+@font-face {
+  font-family: "Typo-Negative";
+  src: url("./font/dymo_negative/TYPONegative.woff") format("woff"),
+    url("./font/dymo_negative/TYPONegative.svg#Typo-Negative") format("svg");
+}
+
+@font-face {
+  font-family: "Typo-Positive";
+  src: url("./font/dymo_positive/TYPOPositive.woff") format("woff"),
+    url("./font/dymo_positive/TYPOPositive.svg#Typo-Positive") format("svg");
+}
+
+.inspector {
+  font-family: "Inspecteur Clouseau W00 Regular", serif;
+}
+
+.dukane {
+  font-family: "Dukane", serif;
+}
+
+.typo-neg {
+  font-family: "Typo-Negative", serif;
+}
+
+.typo-pos {
+  font-family: "Typo-Positive", serif;
+}
+
+.grotesk {
+  font-family: "Copperplate", serif;
+}
 
 :root {
+  /* Colours */
+  --color-primary: #3eb0ef;
+  --color-base: #131313;
+  --color-border: #ddd;
+  --color-bg: #f8f8f8;
 
-    /* Colours */
-    --color-primary: #3eb0ef;
-    --color-base: #131313;
-    --color-border: #ddd;
-    --color-bg: #f8f8f8;
+  /* Fonts */
+  --font-sans-serif: "Muli", sans-serif;
+  --font-serif: Georgia, Times, serif;
+  --font-mono: Menlo, Courier, monospace;
+  --font-light: 100;
+  --font-normal: 400;
+  --font-bold: 700;
+  --font-heavy: 800;
 
-    /* Fonts */
-    --font-sans-serif: 'Muli', sans-serif;
-    --font-serif: Georgia, Times, serif;
-    --font-mono: Menlo, Courier, monospace;
-    --font-light: 100;
-    --font-normal: 400;
-    --font-bold: 700;
-    --font-heavy: 800;
+  /* Breakpoints */
+  --xlarge: 1680px;
+  --large: 1280px;
+  --medium: 980px;
+  --small: 740px;
+  --xsmall: 480px;
 
-    /* Breakpoints */
-    --xlarge: 1680px;
-    --large: 1280px;
-    --medium: 980px;
-    --small: 740px;
-    --xsmall: 480px;
-
-    /* Sizes */
-    --height: 4rem;
-    --margin: 2rem;
-    --radius: 0.5rem;
-
+  /* Sizes */
+  --height: 4rem;
+  --margin: 2rem;
+  --radius: 0.5rem;
 }
