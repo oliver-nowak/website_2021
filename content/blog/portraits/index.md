@@ -5,6 +5,8 @@ thumbnail: ./portrait_thumbnail.jpg
 description: Personal images. squandered potential misguided love my skin is latex my body, biomechanic
 ---
 
+These are pictures of my friends, made between 2002 - 2005.
+
 <div class="kg-card kg-image-card kg-width-card">
 
 ![portraits](portraits_1.jpeg)

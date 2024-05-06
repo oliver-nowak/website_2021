@@ -5,6 +5,10 @@ thumbnail: ./landscapes_1.jpeg
 description:
 ---
 
+An assortment of images from 2003 - 2007.
+
+The last one is a constructed, composite image. The others are just documentary.
+
 <div class="kg-card kg-image-card kg-width-card">
 
 ![landscapes](./landscapes_1.jpeg)

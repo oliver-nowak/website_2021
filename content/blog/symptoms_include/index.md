@@ -41,6 +41,18 @@ For Mother.
 
 **Photography and Graphic Design by:** oliver nowak
 
-**Special Thanks to:** Charlotte Sometimes, Asti, and Big-Pharma.
+**Special Thanks to:** Charlotte Sometimes, Asti, and Big-Pharma. And of course: Mother.
 
 Created in Mirabella Studio in 2023.
+
+## Music Videos
+
+<div style="display: flex; align-items: center; justify-content: center">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EhU6I8x9UYg?si=KirBDmWctQMYDOmP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+## Album
+
+<div style="display: flex; align-items: center; justify-content: center">
+    <iframe style="border: 0; width: 700px; height: 1103px;" src="https://bandcamp.com/EmbeddedPlayer/album=20202276/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://kidneys-optional.bandcamp.com/album/symptoms-include-rapid-memory-degradation-and">symptoms include rapid memory degradation and by kidneys optional</a></iframe>
+</div>

@@ -4,6 +4,12 @@ date: "2022-12-12"
 description: Plays for a theatre of the absurd.
 ---
 
+These plays were written between 1997 - 2003.
+
+This is not a complete collection of all the plays I have written; just the ones that felt the most finished.
+
+I was obsessed with the idea of "what makes us human" in the context of technology, transhumanism, and the inherent properties of Theatre. These topics were not normally associated with Theatre at the time.
+
 <div>
 <h2>capularis</h2>
 <p>An abstract play about machines, memories, and an Unknown Violent Event.</p> 

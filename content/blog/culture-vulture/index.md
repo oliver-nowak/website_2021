@@ -5,6 +5,12 @@ thumbnail: ./08_08_2021.jpg
 description: polaroid emulsion transfers
 ---
 
+I created these images between 2021 - 2022 and published them on Instagram under a pseudonym.
+
+I found I didn't really like Instagram since it seemed, to me anyway, to be an advertising/marketing/promotion platform play-acting as a community. It felt like the worst aspects of high-school writ large. I suppose that makes me naive and out of step.
+
+All of these images are sourced from work I had previously created. But for this project, I wanted to play around with the photographic medium in and of itself, its physicality, the chemistry. And, I wanted to work with color.
+
 <div class="kg-card kg-image-card kg-width-card">
 
 ![Insta](./06_21_2021.jpeg)

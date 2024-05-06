@@ -22,8 +22,8 @@ const AboutPage = ({ data }, location) => {
             and music.
           </h2>
           <h2 id="about_second_para">
-            He is also a data engineer working on Semantic Web technologies and
-            Metadata collection/analysis.
+            He is also a Data Engineering Architect working with Data Lake
+            storage and Semantic Web technologies.
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
@@ -33,8 +33,9 @@ const AboutPage = ({ data }, location) => {
           </figure>
           <h3 id="dynamic-styles">microconcerns</h3>
           <p>
-            He received his MFA at the School of Visual Arts in NYC in 2008, and
-            his Masters in Computer Science from Boston University in 2019.
+            He received his Masters of Fine Arts at the School of Visual Arts in
+            NYC in 2008, and his second Masters, in Computer Science, from
+            Boston University in 2019.
           </p>
           <p>
             He currently holds three (3) patents around capturing emotion/affect

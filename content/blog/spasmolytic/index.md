@@ -5,6 +5,16 @@ thumbnail: ./spasmolytic_1.jpeg
 description:
 ---
 
+In early 2006, I bought my first digital camera; an Olympus model with a 5MP sensor. I thought I would try to create images that were different from my usual work. And I wanted to get to know the machine.
+
+These images are the result.
+
+Not that great. Pretty insulated. Hermetic, even.
+
+At the time, I really struggled to find subjects for pictures. I never liked taking pictures of people. And landscapes were banal. Documentary-style pictures did not interest me, either.
+
+I wanted to capture something more directed. Editorialized, even. Staged. Something that could convey meaning, and maybe reveal something about the world through the juxtaposition of the photographic with the semantic.
+
 <div class="kg-card kg-image-card kg-width-card">
 
 ![spasmolytic](./spasmolytic_1.jpeg)

@@ -5,6 +5,8 @@ thumbnail: ./scraps_1.jpeg
 description: the photographic scrapyard
 ---
 
+This a collection of photographic "sketches" from 2006 - 2008.
+
 <div class="kg-card kg-image-card kg-width-card">
 
 ![scraps](./scraps_1.jpeg)

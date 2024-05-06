@@ -5,6 +5,8 @@ thumbnail: ./software_1.jpeg
 description:
 ---
 
+More digital images from 2006.
+
 <div class="kg-card kg-image-card kg-width-card">
 
 ![software](./software_1.jpeg)

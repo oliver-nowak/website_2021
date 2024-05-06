@@ -5,6 +5,8 @@ thumbnail: ./objects_1.jpeg
 description:
 ---
 
+These are early 2006 digital images. Nothing special.
+
 <div class="kg-card kg-image-card kg-width-card">
 
 ![objects](./objects_1.jpeg)

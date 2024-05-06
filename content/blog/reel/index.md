@@ -2,8 +2,20 @@
 title: re:elapses
 date: "2022-12-07"
 thumbnail: ./reel.png
-description: An exploration of the liminal space between the still-image and the motion-picture. Not quite a screen-saver, not quite a single-channel video, not quite a still-image -- these pieces exist on the fringe of the digital medium as evidence of its plasticity.
+description: moving images
 ---
+
+_An exploration of the liminal space between the still-image and the motion-picture. Not quite a screen-saver, not quite a single-channel video, not quite a still-image -- these pieces exist on the fringe of the digital medium as evidence of its plasticity._
+
+That's the pretentious explanation.
+
+But, really, I was mainly interested in creating cool dynamic photographs that _moved_. I was looking for a way to combine video practice with traditional photographic processing in order to create something new.
+
+I always imagined the final form of these pieces on thin bezel 30 x 40 inch flat screens so that the subject was in scale with the viewer.
+
+These were made in 2007.
+
+I'm pretty sure the old guy on the bench was dead when I found him in a park in Midtown Manhattan.
 
 <div style="text-align: center">
 <video id='_video_container' width='460' height='380' controls autoplay loop>>

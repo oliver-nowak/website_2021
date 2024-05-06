@@ -40,40 +40,24 @@ const Layout = props => {
             </Link>
           </div>
           <div className="site-head-right">
-            {/*<div className="social-links">*/}
-            {/*  <a*/}
-            {/*    href="https://kidneys-optional.com"*/}
-            {/*    title="kidneys-optional.com"*/}
-            {/*    target="_blank"*/}
-            {/*    rel="noopener noreferrer"*/}
-            {/*  >*/}
-            {/*    Music*/}
-            {/*  </a>*/}
-            {/*  <a*/}
-            {/*    href="https://kidneys-optional.bandcamp.com"*/}
-            {/*    title="Bandcamp"*/}
-            {/*    target="_blank"*/}
-            {/*    rel="noopener noreferrer"*/}
-            {/*  >*/}
-            {/*    Bandcamp*/}
-            {/*  </a>*/}
-            {/*  <a*/}
-            {/*    href="https://www.instagram.com/kidneys_optional/"*/}
-            {/*    title="Instagram"*/}
-            {/*    target="_blank"*/}
-            {/*    rel="noopener noreferrer"*/}
-            {/*  >*/}
-            {/*    Instagram*/}
-            {/*  </a>*/}
-            {/*  <a*/}
-            {/*    href="https://hypoxia.substack.com"*/}
-            {/*    title="Substack"*/}
-            {/*    target="_blank"*/}
-            {/*    rel="noopener noreferrer"*/}
-            {/*  >*/}
-            {/*    Substack*/}
-            {/*  </a>*/}
-            {/*</div>*/}
+            <div className="social-links">
+              {/*<a*/}
+              {/*  href="https://kidneys-optional.com"*/}
+              {/*  title="https://kidneys-optional.com"*/}
+              {/*  target="_blank"*/}
+              {/*  rel="noopener noreferrer"*/}
+              {/*>*/}
+              {/*  Music*/}
+              {/*</a>*/}
+              <a
+                href="https://spasmolytic.org/"
+                title="https://spasmolytic.org"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                blah blah Blog
+              </a>
+            </div>
           </div>
         </div>
       </header>
